@@ -1,0 +1,14 @@
+.center-me {
+    background-color: #f08080;
+    color: aqua;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(255, 0, 166);
+    padding: 200px;
+}
+
+body {
+    background-color: blue !important;
+}
